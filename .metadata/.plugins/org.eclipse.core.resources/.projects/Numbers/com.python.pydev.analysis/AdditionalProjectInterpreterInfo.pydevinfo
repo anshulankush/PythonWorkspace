@@ -1,0 +1,25 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/anshulchawla/Documents/PythonWorkspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Numbers/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+NumberPackage.__init__|0|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=NumberPackage.__init__
+-- END DICTIONARY
+-- START TREE 1
+9
+a|0|
+ans|0|
+b|0|
+c|0|
+d|0|
+f|0|
+lis|0|
+myl|1|myList!11@
+num|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
