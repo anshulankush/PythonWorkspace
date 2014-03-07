@@ -1,0 +1,21 @@
+'''
+Created on Feb 27, 2014
+
+@author: anshulchawla
+'''
+
+import re
+
+# . (dot ) matches any character except new line one characher per dot.
+# does left to right so takes the first one from the left
+match = re.search('...n','Its a cool world anshulanshul')
+if match:
+  print(match.group())
+# /w word char
+# /d digit
+# /s white space
+match= re.search('ansi', 'Its a cool worldanshul')
+if match:
+  print(match.group())
+else:
+  print('Not Found')  

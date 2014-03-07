@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/anshulchawla/Documents/PythonWorkspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ObjectOrientedPython/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Module1|0|/Users/anshulchawla/Documents/PythonWorkspace/ObjectOrientedPython/Module1.py
+Module2|0|/Users/anshulchawla/Documents/PythonWorkspace/ObjectOrientedPython/Module2.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=Module1
+1=Module2
+4=pet
+3=dog
+-- END DICTIONARY
+-- START TREE 1
+2
+dog|2|dog!9@dog_object!11@
+pet|1|pet!17@
+-- END TREE
+-- START TREE 2
+4
+bar|1|bark!3&10@
+cou|1|count_legs_with_self!4&18@
+num|1|number_of_legs!4&19@
+sle|1|sleep!4&18@
+-- END TREE

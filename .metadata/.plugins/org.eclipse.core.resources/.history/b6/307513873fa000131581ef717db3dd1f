@@ -1,0 +1,13 @@
+'''
+Created on Feb 27, 2014
+
+@author: anshulchawla
+'''
+
+import re
+
+match= re.search('ansi', 'Its a cool worldanshul')
+if match:
+  print(match.group())
+else:
+  print('Not Found')  

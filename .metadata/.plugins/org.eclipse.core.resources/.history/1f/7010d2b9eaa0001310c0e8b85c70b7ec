@@ -1,0 +1,2 @@
+class MonkeyProblem:
+  p=Point()

@@ -1,0 +1,22 @@
+class Point:
+  
+  def get_string(self):
+    return str(self.x) + "," + str(self.y) 
+  
+  def set_string(self, x, y):
+    self.x = x
+    self.y = y
+
+
+class Monkey:
+  
+  def main(self):
+    p = Point()
+    p.set_string(0, 0)
+    print("a"+p.get_string())
+    
+    
+if __name__ = '__main__':
+main()    
+    
+    

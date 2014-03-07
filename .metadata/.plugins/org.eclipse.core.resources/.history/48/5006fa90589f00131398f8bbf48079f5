@@ -1,0 +1,12 @@
+'''
+Created on Feb 26, 2014
+
+@author: anshulchawla
+'''
+D={}
+D['a'] = 'alpha'
+D['o'] = 'omega'
+D['g'] = 'gamma'
+
+# print(D['A'])
+print(D.get('A'))

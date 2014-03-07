@@ -1,0 +1,7 @@
+from Gridwalk import Point
+
+class MonkeyProblem:
+  p = Point()
+  p.Point.set_string(0, 0)
+  print(p.Point.get_string())
+  

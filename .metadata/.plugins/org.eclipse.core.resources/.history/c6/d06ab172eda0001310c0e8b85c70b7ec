@@ -1,0 +1,17 @@
+class Point:
+  
+  @get_string.setter
+  def set_string(self, x, y):
+    self.x = x
+    self.y = y
+  @property  
+  def get_string(self):
+    return str(self.x)+","+str(self.y) 
+
+
+
+
+def create_point(param0, param1):
+  pass
+
+

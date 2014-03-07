@@ -1,2 +1,10 @@
 MODULES_MANAGER_V2
+NumberPackage.BasicOperations|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/BasicOperations.py
+NumberPackage.ClassDeclaration|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/ClassDeclaration.py
+NumberPackage.Dictionary|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/Dictionary.py
+NumberPackage.FileHandling|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/FileHandling.py
+NumberPackage.InputOutput|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/InputOutput.py
+NumberPackage.Regex|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/Regex.py
+NumberPackage.UrlCrawling|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/UrlCrawling.py
 NumberPackage.__init__|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/__init__.py
+NumberPackage.tempClass|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/tempClass.py

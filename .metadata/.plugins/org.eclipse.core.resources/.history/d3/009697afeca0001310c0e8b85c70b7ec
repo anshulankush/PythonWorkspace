@@ -1,0 +1,5 @@
+from Gridwalk import Point
+
+class MonkeyProblem:
+  p = Point.create_point(0,0)
+  

@@ -1,0 +1,45 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/anshulchawla/Documents/PythonWorkspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Interview/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Gridwalk.__init__|0|/Users/anshulchawla/Documents/PythonWorkspace/Interview/Gridwalk/__init__.py
+PossiblePathsMatrix|0|/Users/anshulchawla/Documents/PythonWorkspace/Interview/PossiblePathsMatrix.py
+Gridwalk.Main|0|/Users/anshulchawla/Documents/PythonWorkspace/Interview/Gridwalk/Main.py
+Gridwalk.Point|0|/Users/anshulchawla/Documents/PythonWorkspace/Interview/Gridwalk/Point.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=Main
+6=Point.__init__
+2=Gridwalk.Main
+1=PossiblePathsMatrix
+5=Point
+3=Gridwalk.Point
+-- END DICTIONARY
+-- START TREE 1
+7
+cou|1|count_path!10@
+m|1|m!11@
+mai|1|Main!17@
+n|1|n!11@
+poi|1|Point!25@
+x|1|x!11@
+y|1|y!11@
+-- END TREE
+-- START TREE 2
+14
+D|1|D!4&19@
+__i|1|__init__!5&26@
+bot|1|bottom!4&19@
+cou|1|count!4&19@
+get|3|get_x!5&26@get_string!5&26@get_y!5&26@
+lef|1|left!4&19@
+p|1|p!4&19@
+q|1|q!4&19@
+rig|1|right!4&19@
+sum|1|summation!5&26@
+top|1|top!4&19@
+val|1|validate!5&26@
+x|2|x!6&27@x!4&19@
+y|2|y!6&27@y!4&19@
+-- END TREE

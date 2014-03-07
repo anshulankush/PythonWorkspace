@@ -1,0 +1,16 @@
+from urllib2 import Request, urlopen, URLError
+request = Request('http://www.last.fm/')
+
+i=0
+while True:
+  try:
+    response = urlopen(request)
+    kittens = response.read()
+  #   print (kittens[:])
+    print(i)
+    i+=1
+#   except:
+#     print('Erroe!!!!!')
+#   i+=1
+  except URLError, e:
+      print 'No kittez. Got an error code:', e

@@ -1,0 +1,12 @@
+from urllib2 import Request, urlopen, URLError
+request = Request('http://www.Facebook.com/')
+
+i=0
+try:
+  response = urlopen(request)
+  kittens = response.read()
+#   print (kittens[:])
+  print(i)
+  i+=1
+except URLError:
+  print('Error!!!')

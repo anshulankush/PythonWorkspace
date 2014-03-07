@@ -1,0 +1,55 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/anshulchawla/Documents/PythonWorkspace/.metadata/.plugins/org.eclipse.core.resources/.projects/GoogleDeveloper/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Day1.string2|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/string2.py
+Day1.__init__|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/__init__.py
+Day1.Learning|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/Learning.py
+Day1.list1|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/list1.py
+Day2.babynames|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day2/babynames.py
+Day1.mimic|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/mimic.py
+Day1.list2|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/list2.py
+Day2.__init__|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day2/__init__.py
+Day1.wordcount|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/wordcount.py
+Day1.string1|0|/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day1/string1.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+5=Day1.string2
+8=Day1.Learning
+4=Day1.list1
+7=Day1.mimic
+6=Day1.list2
+3=Day2.babynames
+1=Day1.wordcount
+2=Day1.string1
+-- END DICTIONARY
+-- START TREE 1
+23
+all|1|all_words!11@
+bot|1|both_ends!18@
+cou|2|count_words!10@count_values!10@
+don|1|donuts!18@
+ext|1|extract_names!26@
+f|1|f!11@
+fix|1|fix_start!18@
+fro|2|front_x!34@front_back!42@
+las|1|Last!34@
+lin|1|linear_merge!50@
+mai|7|main!50@main!58@main!34@main!10@main!26@main!18@main!42@
+mat|1|match_ends!34@
+mim|1|mimic_dict!58@
+mix|1|mix_up!18@
+not|1|not_bad!42@
+pri|3|print_mimic!58@print_words!10@print_top!10@
+rem|1|remove_adjacent!50@
+s|1|s!67@
+sor|1|sort_last!34@
+tes|4|test!42@test!18@test!34@test!50@
+tex|1|text!11@
+ver|1|verbing!42@
+wor|1|word_count!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
