@@ -1,5 +1,0 @@
-from Gridwalk import Point
-
-class MonkeyProblem:
-  p = Point(0,0)
-  

@@ -1,4 +1,0 @@
-import Point
-
-class MonkeyProblem:
-  p=Point()

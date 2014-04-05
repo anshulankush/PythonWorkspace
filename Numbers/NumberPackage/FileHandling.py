@@ -1,18 +1,25 @@
 #fixes dos and unix endings under the hood
-fob=open('/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/small.txt','rU')
-# for line in fob:
-#  #put comma in end to remove line doubling
-#   print(line),
-line=fob.readlines()
-# print(line)
+# fob=open('/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/small.txt','rU')
+# # for line in fob:
+# #  #put comma in end to remove line doubling
+# #   print(line),
+# line=fob.readlines()
+# # print(line)
+# 
+# text=fob.read()
+# print(1)
+# print(text),
+# print(2)
+# fob.close()
 
-text=fob.read()
-print(1)
-print(text),
-print(2)
+
+fob = open('./index.html','w')
+fob.write('<html><body>')
+for i in range(0,157):
+  fob.write("<img src='./Images/image'+`i`>")
+   
+fob.write('</body></html>')
 fob.close()
-
-
 
 
  

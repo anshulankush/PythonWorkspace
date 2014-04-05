@@ -1,0 +1,8 @@
+INSTUPDay2.logpuzzle.logpuzzle
+/Users/anshulchawla/Documents/PythonWorkspace/GoogleDeveloper/Day2/logpuzzle/logpuzzle.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0
+Day2.logpuzzle.logpuzzle=2
+read_urls=1
+download_images=3
+display_image=4
+main=5

@@ -1,4 +1,8 @@
 MODULES_MANAGER_V2
+--COMMON--
+0=/Library/Python/2.7/site-packages/tweepy-2.2-py2.7.egg
+--END-COMMON--
+MODULES_MANAGER_V2
 AVFoundation.__init__|/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC/AVFoundation/__init__.py
 AddressBook.__init__|/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC/AddressBook/__init__.py
 AppKit._AppKit|/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC/AppKit/_AppKit.so
@@ -2552,6 +2556,18 @@ traceback|/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7
 ttk|/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk/ttk.py
 tty|/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tty.py
 turtle|/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk/turtle.py
+tweepy.__init__|0|tweepy/__init__.py|1
+tweepy.api|0|tweepy/api.py|1
+tweepy.auth|0|tweepy/auth.py|1
+tweepy.binder|0|tweepy/binder.py|1
+tweepy.cache|0|tweepy/cache.py|1
+tweepy.cursor|0|tweepy/cursor.py|1
+tweepy.error|0|tweepy/error.py|1
+tweepy.models|0|tweepy/models.py|1
+tweepy.oauth|0|tweepy/oauth.py|1
+tweepy.parsers|0|tweepy/parsers.py|1
+tweepy.streaming|0|tweepy/streaming.py|1
+tweepy.utils|0|tweepy/utils.py|1
 twisted.__init__|/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/twisted/__init__.py
 twisted._version|/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/twisted/_version.py
 twisted.application.__init__|/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/twisted/application/__init__.py

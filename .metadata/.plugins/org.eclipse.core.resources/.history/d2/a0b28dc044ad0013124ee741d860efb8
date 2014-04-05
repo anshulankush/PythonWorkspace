@@ -1,0 +1,38 @@
+'''
+Created on Mar 16, 2014
+
+@author: anshulchawla
+'''
+import thread
+import time
+import random
+
+print("Start Program")
+
+
+def fast_function(thread_name, sleep_time):
+    while True:
+        time.sleep(sleep_time)
+        print("Thread name: {}, sleep time: {}"
+              .format(thread_name, sleep_time))
+
+
+def slow_function(thread_name, sleep_time):
+    while True:
+        time.sleep(sleep_time)
+        print("Thread name: {}, sleep time: {}"
+               .format(thread_name, sleep_time))
+
+
+def random_function(thread_name, sleep_time):
+    while True:
+        time.sleep(sleep_time)
+        print("Thread name: {}, sleep time: {}"
+               .format(thread_name, sleep_time))
+try:
+    thread.start_new_thread(fast_function, ("One", 2))
+    thread.start_new_thread(slow_function, ("One", 4))
+    thread.start_new_thread(random_function, ("One", random.random()))
+
+except Exception as e:
+    print(e)

@@ -4,7 +4,9 @@ NumberPackage.ClassDeclaration|/Users/anshulchawla/Documents/PythonWorkspace/Num
 NumberPackage.Dictionary|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/Dictionary.py
 NumberPackage.FileHandling|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/FileHandling.py
 NumberPackage.InputOutput|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/InputOutput.py
+NumberPackage.ListFeatures|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/ListFeatures.py
 NumberPackage.Regex|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/Regex.py
 NumberPackage.UrlCrawling|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/UrlCrawling.py
+NumberPackage.Utilities|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/Utilities.py
 NumberPackage.__init__|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/__init__.py
 NumberPackage.tempClass|/Users/anshulchawla/Documents/PythonWorkspace/Numbers/NumberPackage/tempClass.py

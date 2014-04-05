@@ -1,3 +1,0 @@
-class pet:
-  number_of_pets = 0
-  

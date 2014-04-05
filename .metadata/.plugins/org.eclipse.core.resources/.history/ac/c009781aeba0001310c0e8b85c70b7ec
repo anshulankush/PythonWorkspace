@@ -1,6 +1,0 @@
-from Gridwalk import Point
-
-class MonkeyProblem:
-  p=Point()
-  p.__init__(0,0)
-  
